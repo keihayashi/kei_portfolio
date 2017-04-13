@@ -25,3 +25,5 @@ weight = 0
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 </form>
+
+{{< socialLinks >}}
