@@ -1,0 +1,40 @@
+baseURL = "http://example.org/"
+title = "Dimension"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableRSS = true
+
+[params]
+  title = "Welcome to Kei's portfolio."
+  description = '<!--[-->Hello! I am Kei Hayashi, a backend software engineer based in Bay Area, California.<!--]--><br />
+                <!--[-->♥ traveling, reading, fashion, and coding :)<!--]-->'
+  logo = "fa-diamond"
+  copyright = "Untitled"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/ke1hayash1"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/leekeikei"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/chocovanilla102"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/keihayashi"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+title = "Welcome to Kei's portfolio."
