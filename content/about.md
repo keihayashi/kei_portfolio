@@ -5,7 +5,9 @@ title = "about"
 weight = 0
 
 +++
-
+{{< figure class="image main" src="/images/pic02.jpg" >}}
+Hello! I am a software engineer, who love to learn new things and collaborate with others. These days I especially want to master the technology of backend web engineering since I believe more and more people become dependent on the web in many ways: information gathering, communication, shopping, and so on.  I also want to brush up my skills of machine learning and in order to make the best use of it.  
+Feel free to contact me if you have any question!
 
 #### Skills
 Languages: C/C++, Python, SQL, Java, JavaScript, HTML5, CSS3, Octave
